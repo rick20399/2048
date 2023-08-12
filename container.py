@@ -1,6 +1,9 @@
+tittle = '2048'
 WIDTH = 400
 HEIGHT = 500
 fps = 60
+font = 'freesansbold.ttf'
+high_score_f = 'high_score'
 
 # color
 colors = {0: (204, 192, 179),
