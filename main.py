@@ -23,6 +23,7 @@ init_high = int(file.readline())
 file.close()
 high_score = init_high
 
+# this is from branch 1
 # main game loop
 run = True
 while run:
